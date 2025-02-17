@@ -17,12 +17,6 @@ o	Key metrics: Total Revenue, Customer Type, City, and Branch.
 •	Data Cleaning & Transformation: No cleaning was needed as the dataset was already clean.
 •	Analysis Method: Various charts and visualizations were created to display results clearly.
 4. Data Visualization & Insights
-•	Dashboard Overview: (Include screenshots of report):
-
-1.
- 
-2.
- 
 •	Trends & Key Findings:
 o	Sales Performance: Sales and profit are at a moderate level, with a total profit of $292,208.
 o	Customer Ratings: Customer satisfaction is generally high.
